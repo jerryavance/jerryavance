@@ -9,6 +9,5 @@ A Data Scientist and Engineer specializing in Python and C++.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Toolbox :wrench: :nut_and_bolt: :hammer:
+![893-8937286_python-logo](https://user-images.githubusercontent.com/43239346/125244423-fdee8980-e2f7-11eb-955a-d7421b0ac44c.png)
 
-![4990671](https://user-images.githubusercontent.com/43239346/125244032-828cd800-e2f7-11eb-8406-9ce09e7069b4.png)
-![a2dc3249364449a49f01a6275d277b8c](https://user-images.githubusercontent.com/43239346/125244088-91738a80-e2f7-11eb-82e1-3b13fbe6b5bf.jpg)

@@ -31,6 +31,7 @@ I am Jerry Vance a Data Scientist and Software Engineer. I am interested in the 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -39,7 +40,8 @@ I am Jerry Vance a Data Scientist and Software Engineer. I am interested in the 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/jerryvance/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/JerryAVance'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
@@ -48,6 +50,4 @@ I am Jerry Vance a Data Scientist and Software Engineer. I am interested in the 
   <br>
 <br>
   <br>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 

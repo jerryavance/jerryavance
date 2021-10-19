@@ -15,7 +15,7 @@ A Data Scientist and Software Engineer specializing in Python and C++.
 
 Toolbox :wrench: :nut_and_bolt: :hammer:
 
-:white_check_mark: Python
+:white_circle: Python
 
 :white_check_mark: C++ 
 

@@ -10,7 +10,7 @@ I am Jerry Vance a Data Scientist and Software Engineer. I am interested in the 
 - 👯 I’m looking to collaborate on web, Machine Learning and Deep Learning Projects
 - 🤔 I’m working in Business Intelligence , education and Freelancing.
 - 💬 Ask me about Statistics, Programming & Machine Learning
-- 📫 I am interested in building self-driving cars
+- 💡 I am interested in building self-driving cars
 
 
 :large_blue_diamond: Also, I have a strong ability to collaborate and work in a team environment on multi-disciplinary projects :wink:.

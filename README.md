@@ -1,7 +1,8 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Hi there 👋, I am Jerry Vance!
-A Data Scientist and Software Engineer interested in the intersection of statistics, machine learning, and optimization, focusing primarily on the design and analysis of statistical methods for high-dimensional problems in the context of learning from data, primarily in Python and C++. My focus is to build intelligent systems using large-scale,real-world data that have real-world impact. 
+Hi there 👋, 
+I am Jerry Vance a Data Scientist and Software Engineer. I am interested in the intersection of statistics, machine learning, and optimization, focusing primarily on the design and analysis of statistical methods for high-dimensional problems in the context of learning from data, primarily in Python and C++. My focus is to build intelligent systems using large-scale,real-world data that have real-world impact. 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 :large_blue_diamond: Extensive experience with applying analytical and statistical methods to model a broad range of systems from stochastic systems to large-scale data structures. 

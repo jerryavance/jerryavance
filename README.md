@@ -1,16 +1,20 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hi there 👋, 
 
-I am Jerry Vance a Data Scientist and Software Developer. I am interested in the intersection of statistics, machine learning, and optimization, focusing primarily on the design and analysis of statistical methods for high-dimensional problems in the context of learning from data, primarily in Python and C++. My focus is to build intelligent systems such as self-driving cars using large-scale, real-world data that have real-world impact. I am also interested in web development using HTML, CSS, JavaScript and React.  
+I am Jerry Vance a Software Developer and Data Scientist. 
+As a software developer, I specialize in building applications using Python and JavaScript, with expertise in popular frameworks like Django, React, and Node.js. I work closely with clients to deliver efficient, scalable, and user-friendly solutions that solve real-world problems. In addition, I have a strong interest in artificial intelligence and apply my skills to create intelligent applications that can learn and adapt to user needs. Let's work together to bring your ideas to life!
+
+
+As a data scientist with a backgound in Statistics, I bring a unique perspective to problem-solving. With experience as a Business Intelligence analyst, I possess a keen eye for uncovering insights and patterns hidden within data. I leverage my analytical skills and expertise in data visualization to effectively communicate complex information to stakeholders and drive informed decision-making. I am also passionate about exploring the intersection of web development and AI, and I continuously seek new ways to incorporate intelligent features into my applications. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on Machine Learning projects
-- 🌱 I'm currently learning Web development
+- 🔭 I'm currently building Web projects
+- 🌱 I’m currently working on Machine Learning projects 
 - 👯 I’m looking to collaborate on web, Machine Learning and Deep Learning Projects
-- 🤔 I’m working in Business Intelligence and Freelancing.
-- 💬 Ask me about Statistics, Programming & Machine Learning
-- 💡  I am interested in building self-driving cars
+- 🤔 I’m working in software engineering
+- 💬 Ask me about web development, statistics & Artificial Intelligence
+- 💡  I am interested in Artificial Intelligence
 
 
 :large_blue_diamond: Also, I have a strong ability to collaborate and work in a team environment on multi-disciplinary projects :wink:.
